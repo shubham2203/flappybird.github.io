@@ -1,1 +1,1 @@
-# flappybird.github.io
+# flappy-bird-game
