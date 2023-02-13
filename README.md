@@ -8,8 +8,8 @@
 
 ## Screenshots
 
-![Screenshot (36)](https://user-images.githubusercontent.com/54469061/218454077-db0fb929-029b-4fa8-b660-447237ef1b0e.png)
 ![Screenshot (37)](https://user-images.githubusercontent.com/54469061/218454088-dba05a79-d091-4b51-819a-58fc27643449.png)
+![Screenshot (36)](https://user-images.githubusercontent.com/54469061/218454077-db0fb929-029b-4fa8-b660-447237ef1b0e.png)
 ![Screenshot (38)](https://user-images.githubusercontent.com/54469061/218454097-25071b9b-1470-4530-9647-80c9630b6e6d.png)
 
 
